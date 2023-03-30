@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @justkoi42
-- 👀 I'm interested in classical music and learning languages as my main specialties
-- 🌱 I’m currently learning Spanish, Coding and trying to have fun with Linux
-- 💞️ I’m looking to collaborate on ... will add later
-- 📫 How to reach me ... will add later
+- 👀 I'm interested in JavaScript developing
+- 🌱 I’m currently develop my own tower defense game with Canvas and vanilla JS
+- 💞️ I’m looking for opportunities to get an experience with real projects and get a job would make me stronger as a developer
+- 📫 You can contact me here justkoi42@gmail.com
 
 <!---
 justkoi42/justkoi42 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
